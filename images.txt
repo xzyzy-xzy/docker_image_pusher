@@ -1,1 +1,4 @@
-ubuntu:latest
+kubesphere/kube-rbac-proxy:v0.11.0
+kubesphere/prometheus-config-reloader:v0.55.1
+kubesphere/notification-manager:v1.4.0
+kubesphere/notification-tenant-sidecar:v3.2.0
