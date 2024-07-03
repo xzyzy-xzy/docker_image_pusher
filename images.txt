@@ -1,1 +1,1 @@
-prom/prometheus:v2.34.0
+opensearchproject/opensearch:2.6.0
