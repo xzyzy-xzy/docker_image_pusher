@@ -1,1 +1,1 @@
-kubesphere/etcd:v3.3.12
+php:latest
