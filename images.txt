@@ -1,1 +1,1 @@
-prom/mysqld-exporter:v0.11.0
+busybox:1.32
