@@ -1,1 +1,1 @@
-php:latest
+registry.cn-hangzhou.aliyuncs.com/lfy_k8s_images/nfs-subdir-external-provisioner:v4.0.2
