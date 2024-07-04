@@ -1,1 +1,1 @@
- ananwaresystems/webarchive:1.0
+prom/mysqld-exporter:v0.11.0
