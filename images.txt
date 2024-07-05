@@ -1,1 +1,5 @@
-wordpress:4.8-apache
+busybox:latest
+kubesphere/fluentbit-operator:v0.14.0
+docker:19.03
+kubesphere/log-sidecar-injector:v1.2.0
+jimmidyson/configmap-reload:v0.7.1
