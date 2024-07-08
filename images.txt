@@ -1,1 +1,1 @@
-kubesphere/devops-controller:ks-v3.4.1
+kubesphere/ks-jenkins:v3.4.0-2.319.3-1
