@@ -1,1 +1,1 @@
-centos:7
+node:v3.28.0
