@@ -1,1 +1,1 @@
-docker.io/library/neo4j:5-community-bullseye
+nginx
